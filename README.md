@@ -171,6 +171,9 @@ Contains the downloadable desktop application software TRINETRA (github release 
 [TRINETRA Website](https://trinetra-orpin.vercel.app/index.html)
 
 Contains the website for TRINETRA, showcasing its cybersecurity platform, key features, ransomware detection workflow, and overall system architecture.
+This software application right now uses admin id for login
+Userid- admin
+Password- 12345678
 
 ---
 
