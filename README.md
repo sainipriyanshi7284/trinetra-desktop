@@ -162,9 +162,9 @@ Contains the ransomware detection and risk analysis component used in the projec
 
 ### Desktop Application
 
-[TRINETRA Desktop](https://github.com/sainipalak0705/trinetra-desktop)
+[TRINETRA Desktop]((https://github.com/sainipriyanshi7284/trinetra-desktop/releases))
 
-Contains the desktop command center and its frontend implementation.
+Contains the downloadable desktop application software TRINETRA (github release link)
 
 ### Website
 
