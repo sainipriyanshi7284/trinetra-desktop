@@ -162,9 +162,9 @@ Contains the ransomware detection and risk analysis component used in the projec
 
 ### Desktop Application
 
-[TRINETRA Desktop]((https://github.com/sainipriyanshi7284/trinetra-desktop/releases))
+[TRINETRA Desktop](https://github.com/sainipriyanshi7284/trinetra-desktop/releases/tag/v1.0.1)
 
-Contains the downloadable desktop application software TRINETRA (github release link)
+Contains the downloadable desktop application software TRINETRA (github release link-TRINETRA v1.1.0)
 
 ### Website
 
@@ -203,7 +203,7 @@ Developed by **Team Cipher Syndicate** as part of **Smart India Hackathon 2026**
 - [Palak Saini](https://github.com/sainipalak0705)
 - [Priya Aggarwal](https://github.com/Priya-30101)
 - [Prakhar Srivastava](https://github.com/prakharsrivastava252734)
-- [Ansh Dhawan](https://github.com/)
+- [Ansh Dhawan](https://github.com/anshdhawan99999)
 
 
 ## License
