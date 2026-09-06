@@ -10,7 +10,7 @@ BASE_URL = "https://ransomware-detection-system-f2pi.onrender.com"
 WS_URL = "wss://ransomware-detection-system-f2pi.onrender.com/ws"
 USERNAME = "admin"
 PASSWORD = "admin"
-
+ 
 def make_request(path, method="GET", data=None, token=None):
     url = BASE_URL + path
     headers = {}
